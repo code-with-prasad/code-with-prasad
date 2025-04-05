@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Machine Coding Interview Questions in React**
 - 🌱 I’m learning **Advanced React, Node.js & Next.js**
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Bootstrap**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m-prasad/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m-prasad-/)
 - 👨‍🎓 I’m a BCA graduate building real-world projects
 
 ---
